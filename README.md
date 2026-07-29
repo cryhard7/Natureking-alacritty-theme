@@ -15,19 +15,21 @@ A warm , cozy , hint-greenish , clean , sexy , beautiful etc. colorscheme for al
 
 ```mkdir -p ~/.config/alacritty/themes```
 
-4. In config file
+4.download the file and move it to the themes folder
+
+5. In config file
 
 ```
 [general]
 import = [
-    "~/.config/alacritty/themes/themes/natureking.toml"
+    "~/.config/alacritty/themes/natureking.toml"
 ]
 ```
 
 
 
 
-5.save to see changes
+6.save to see changes
 
 
 ###colors###
