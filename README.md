@@ -20,7 +20,7 @@ A warm , cozy , hint-greenish , clean , sexy , beautiful etc. colorscheme for al
 ```
 [general]
 import = [
-    "~/.config/alacritty/themes/themes/{theme}.toml"
+    "~/.config/alacritty/themes/themes/natureking.toml"
 ]
 ```
 
