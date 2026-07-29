@@ -17,9 +17,11 @@ A warm , cozy , hint-greenish , clean , sexy , beautiful etc. colorscheme for al
 
 4. In config file
 
-```[general]```
-```import =[```
-```"~/.config/alacritty/themes/natureking.toml"]```
+``[general]
+import =[
+"~/.config/alacritty/themes/themes/natureking.toml"]``
+
+
 
 5.save to see changes
 
